@@ -21,7 +21,7 @@ To set a credi card for him use:
 
 
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/recipe-app/blob/main/images/Screenshot1.jpg?raw=true" alt="app_screenshot" />
+    <img src="https://github.com/PatrycjaMicle/credit-card-withdrawal/blob/main/images/Screenshot1.jpg?raw=true" alt="app_screenshot" />
 </p>
 
 3.Use functions to showing balance and withdrawing the money.
@@ -29,13 +29,13 @@ To set a credi card for him use:
 withdrawMoney(@name,@amount) - @amount: how much money do you want to withdraw. If you want to add money to an account write minus. for example -50.
 
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/recipe-app/blob/main/images/Screenshot2.jpg?raw=true" alt="app_screenshot" />
+    <img src="https://github.com/PatrycjaMicle/credit-card-withdrawal/blob/main/images/Screenshot2.jpg?raw=true" alt="app_screenshot" />
 </p>
 
 showBalance(@name.mCreditCard)
 
 <p align="center">
-    <img src="https://github.com/PatrycjaMicle/recipe-app/blob/main/images/Screenshot3.jpg?raw=true" alt="app_screenshot" />
+    <img src="https://github.com/PatrycjaMicle/credit-card-withdrawal/blob/main/images/Screenshot3.jpg?raw=true" alt="app_screenshot" />
 </p>
 
 
