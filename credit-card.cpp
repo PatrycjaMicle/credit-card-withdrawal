@@ -47,7 +47,6 @@ void withdrawMoney(Customer &cust,const int amnt )
 void showBalance(const CreditCard &card)
 {
     std::cout<<"Du hast noch zur Verfuegung: "<<card.mBalance<<std::endl;
-    //TODO:Anlegen wieviel Geld noch auf der Kreditkarte ist
 }
 
 int main()
@@ -61,7 +60,7 @@ int main()
     std::cout<<"John: ";
     showBalance(John.mCreditCard);
     std::cout<<"Peter: ";
-    showBalance(peter.mCreditCard); // showing Balance befor withdrawal
+    showBalance(peter.mCreditCard); // showing Balance before withdrawal
 
     std::cout<<"Each is going to withdraw some Money: First50, then 100, and finally 200."<<std::endl;
 
